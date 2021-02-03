@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy-LMS-MVC", "Academy-LMS-MVC\Academy-LMS-MVC.csproj", "{73E0881F-E034-4189-83B5-D3F1F1E1559F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E0881F-E034-4189-83B5-D3F1F1E1559F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E0881F-E034-4189-83B5-D3F1F1E1559F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E0881F-E034-4189-83B5-D3F1F1E1559F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E0881F-E034-4189-83B5-D3F1F1E1559F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E983C7A-2E12-4425-880D-FD068BA1CAA5}
+	EndGlobalSection
+EndGlobal
